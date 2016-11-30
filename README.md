@@ -1,4 +1,4 @@
-# patchwork-translations
+# pangea-translations
 
 Locale data for [Patchwork] and [Patchkit], using [polyglot].
 
