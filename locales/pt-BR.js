@@ -3,7 +3,7 @@
   AboutPatchwork: "Sobre o Patchwork",
   Activity: "Atividade",
   ActivityFeed: "Feed de Atividade",
-  AddFriend: "Adicionar aos amigos",
+  AddFriend: "Torna-se amigos",
   AddFriends: "Adicionar amigos",
   Back: "Para trás",
   Cancel: "Cancelar",
