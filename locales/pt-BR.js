@@ -1,10 +1,10 @@
-module.exports = {
+﻿module.exports = {
   About: "Sobre",
   AboutPatchwork: "Sobre o Patchwork",
   Activity: "Atividade",
   ActivityFeed: "Feed de Atividade",
   AddFriend: "Adicionar aos amigos",
-  AddFriends: "Adicionar Amigos",
+  AddFriends: "Adicionar amigos",
   Back: "Para trás",
   Cancel: "Cancelar",
   ChosenBy: "Escolhido por:",
@@ -114,6 +114,7 @@ module.exports = {
   StopFollowing: "Deixar de seguir",
   SyncHint: "Network status de sincronização",
   ToggleDevTools: "DevTools Toggle",
+  Tribe: "Tribo",
   Undo: "Desfazer",
   UnflagThisUser: "Remover a denúncia deste usuário",
   Unfollow: "Deixar de seguir",
